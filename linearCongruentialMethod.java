@@ -1,7 +1,7 @@
 package hash;
 import java.util.*;
 import java.io.*;
-public class linearCongruentialMethod {
+public class linearCongruentialGenerator {
 
 	public static void main(String[] args) {
 		int xo,m,a,c,xn;
